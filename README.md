@@ -10,13 +10,13 @@ I build scalable, production-grade computational workflows for multi-omics analy
 
 ## 🛠️ Tech Stack
 
-Languages            Python | R | Bash | SQL | Perl | Linux  
-ML / DL              PyTorch | TensorFlow | scikit-learn | XGBoost | Transformers  
-Genomics & Single-Cell Scanpy | Seurat | DESeq2 | edgeR  
-Protein Engineering  ESM | AlphaFold | ProteinMPNN | Rosetta | RFdiffusion  
-Docking & MD         AutoDock Vina | GROMACS | OpenMM  
-NGS Tools            STAR | Bowtie2 | MACS2 | deepTools | Samtools  
-Cloud & Workflows    AWS | Docker | Nextflow | Snakemake | Slurm  
+Languages:            Python | R | Bash | SQL | Perl | Linux  
+ML / DL :             PyTorch | TensorFlow | scikit-learn | XGBoost | Transformers  
+Genomics & Single-Cell: Scanpy | Seurat | DESeq2 | edgeR  
+Protein Engineering:  ESM | AlphaFold | ProteinMPNN | Rosetta | RFdiffusion  
+Docking & MD :        AutoDock Vina | GROMACS | OpenMM  
+NGS Tools :           STAR | Bowtie2 | MACS2 | deepTools | Samtools  
+Cloud & Workflows :   AWS | Docker | Nextflow | Snakemake | Slurm  
 
 ## 📌 Featured Projects
 - 🔬 **[ChIP-seq Analysis Pipeline](https://github.com/jacinth360/Chip-Seq_pipeline)** – end-to-end peak calling & motif analysis  

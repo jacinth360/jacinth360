@@ -1,4 +1,4 @@
-# Hi, I’m Jacinth a Computational Biologist 👩‍💻💻🧬
+# printf("Jacinth: Computational Biologist 👩‍💻🧬");
 
 I build scalable, production-grade computational workflows for multi-omics analysis and computational drug discovery, spanning NGS pipelines, single-cell genomics, chromatin profiling, and ML-based protein engineering.
 

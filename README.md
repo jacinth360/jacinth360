@@ -18,6 +18,4 @@ I build scalable, production-grade computational workflows for multi-omics analy
 
 ![Jacinth's GitHub stats](https://github-readme-stats.vercel.app/api?username=jacinth360&show_icons=true&theme=radical&hide=issues)
 
-![Jacinth's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jacinth360&theme=react-dark)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jacinth360&theme=radical)

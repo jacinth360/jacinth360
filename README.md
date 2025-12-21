@@ -3,10 +3,9 @@
 I build scalable, production-grade computational workflows for multi-omics analysis and computational drug discovery, spanning NGS pipelines, single-cell genomics, chromatin profiling, and ML-based protein engineering.
 
 ## 🧬 Focus Areas
-- Multi-omics analysis: RNA-seq, scRNA-seq, ChIP-seq, ATAC-seq
+- Transcriptomics and Epigenomics analysis: RNA-seq, scRNA-seq, ChIP-seq, ATAC-seq
 - Workflow & infrastructure: Nextflow, Snakemake, AWS, HPC (Slurm)
 - Computational drug discovery & protein engineering
-- Reproducible, production-ready bioinformatics pipelines
 
 ## 📫 Connect
 - 💼 [LinkedIn](https://linkedin.com/in/jacinthangelina)
@@ -19,4 +18,5 @@ I build scalable, production-grade computational workflows for multi-omics analy
 
 ![Jacinth's GitHub stats](https://github-readme-stats.vercel.app/api?username=jacinth360&show_icons=true&theme=radical&hide=issues)
 
+![Jacinth's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jacinth360&theme=react-dark)
 

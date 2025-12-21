@@ -8,16 +8,6 @@ I build scalable, production-grade computational workflows for multi-omics analy
 - Computational drug discovery & protein engineering
 - Reproducible, production-ready bioinformatics pipelines
 
-## 🛠️ Tech Stack
-
-Languages:            Python | R | Bash | SQL | Perl | Linux  
-ML / DL :             PyTorch | TensorFlow | scikit-learn | XGBoost | Transformers  
-Genomics & Single-Cell: Scanpy | Seurat | DESeq2 | edgeR  
-Protein Engineering:  ESM | AlphaFold | ProteinMPNN | Rosetta | RFdiffusion  
-Docking & MD :        AutoDock Vina | GROMACS | OpenMM  
-NGS Tools :           STAR | Bowtie2 | MACS2 | deepTools | Samtools  
-Cloud & Workflows :   AWS | Docker | Nextflow | Snakemake | Slurm  
-
 ## 📫 Connect
 - 💼 [LinkedIn](https://linkedin.com/in/jacinthangelina)
 - 📧 jacinthangelina@gmail.com

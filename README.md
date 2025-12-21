@@ -8,9 +8,9 @@ I build scalable, production-grade computational workflows for multi-omics analy
 - Computational drug discovery & protein engineering
 
 ## 📫 Connect
-💼 [LinkedIn](https://linkedin.com/in/jacinthangelina)
-📧 jacinthangelina@gmail.com
-🌐 [Google Scholar](https://scholar.google.com/)
+- 💼 [LinkedIn](https://linkedin.com/in/jacinthangelina)
+- 📧 jacinthangelina@gmail.com
+- 🌐 [Google Scholar](https://scholar.google.com/)
 
 *Open to bioinformatics, computational biology, and data science opportunities. Currently based in Boston, MA.*
 

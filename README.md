@@ -29,10 +29,10 @@ Cloud & Workflows :   AWS | Docker | Nextflow | Snakemake | Slurm
 - 📧 jacinthangelina@gmail.com
 - 🌐 [Google Scholar](https://scholar.google.com/)
 
+*Open to bioinformatics, computational biology, and data science opportunities. Currently based in Boston, MA.*
+
 ### 📈 GitHub Stats
 
 ![Jacinth's GitHub stats](https://github-readme-stats.vercel.app/api?username=jacinth360&show_icons=true&theme=radical&hide=issues)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jacinth360&layout=compact&theme=radical)
 
-*Open to bioinformatics, computational biology, and data science opportunities. Currently based in Boston, MA.*

@@ -18,12 +18,6 @@ Docking & MD :        AutoDock Vina | GROMACS | OpenMM
 NGS Tools :           STAR | Bowtie2 | MACS2 | deepTools | Samtools  
 Cloud & Workflows :   AWS | Docker | Nextflow | Snakemake | Slurm  
 
-## 📌 Featured Projects
-- 🔬 **[ChIP-seq Analysis Pipeline](https://github.com/jacinth360/Chip-Seq_pipeline)** – end-to-end peak calling & motif analysis  
-- 🧠 **[Human Muscle scRNA-seq](https://github.com/jacinth360/human-muscle-scRNAseq.analysis)** – QC → clustering → cell-type annotation  
-- 🧬 **[RNA-seq WT vs KO](https://github.com/jacinth360/human-wt-ko-rnaseq-de)** – differential expression & enrichment  
-- 🌊 **[CoralDB](https://github.com/jacinth360/Coral_DB)** – genetics database & web interface  
-
 ## 📫 Connect
 - 💼 [LinkedIn](https://linkedin.com/in/jacinthangelina)
 - 📧 jacinthangelina@gmail.com

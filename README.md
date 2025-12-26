@@ -12,7 +12,7 @@ I'm a computational biologist who builds production-grade computational workflow
 - 📧 jacinthangelina@gmail.com
 - 🌐 [Google Scholar](https://scholar.google.com/)
 
-*Open to bioinformatics, computational biology, and data science opportunities. Currently based in Boston, MA.*
+*Open to bioinformatics, computational biology, and data science opportunities. *
 
 ### 📈 GitHub Stats
 

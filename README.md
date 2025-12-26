@@ -14,8 +14,3 @@ I'm a computational biologist who builds production-grade computational workflow
 
 *Open to bioinformatics, computational biology, and data science opportunities. *
 
-### 📈 GitHub Stats
-
-![Jacinth's GitHub stats](https://github-readme-stats.vercel.app/api?username=jacinth360&show_icons=true&theme=radical&hide=issues)
-
-

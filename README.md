@@ -1,6 +1,6 @@
 # Hi there, I'm Jacinth 👩‍💻🧬
 
-I'm a computational biologist who builds production grade computational workflows for multiomics analysis and computational drug discovery, spanning statistical modeling, single cell genomics, chromatin profiling, and ML based protein engineering.
+I'm a computational biologist who builds production grade computational workflows for multiomics analysis and computational drug discovery.
 
 ## 🧬 Focus Areas
 - Transcriptomics and Epigenomics analysis: RNA-seq, scRNA-seq, ChIP-seq, ATAC-seq, CUT&RUN
